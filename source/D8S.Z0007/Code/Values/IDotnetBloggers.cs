@@ -87,5 +87,9 @@ namespace D8S.Z0007
         public Blogger Strahl_Rick => Blogger.From(
             "Rick Strahl",
             "https://weblog.west-wind.com/");
+
+        public Blogger Varty_Josh => Blogger.From(
+            "Josh Varty",
+            "https://joshvarty.com/");
     }
 }
