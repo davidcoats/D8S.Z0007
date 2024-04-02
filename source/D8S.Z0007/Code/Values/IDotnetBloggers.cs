@@ -64,6 +64,10 @@ namespace D8S.Z0007
             "Scott Hanselman",
             "https://www.hanselman.com/");
 
+        public Blogger Hilton_Jon => Blogger.From(
+            "Jon Hilton",
+            "https://jonhilton.net/");
+
         public Blogger Lock_Andrew => Blogger.From(
             "Andrew Lock",
             "https://andrewlock.net/");
